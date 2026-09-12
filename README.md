@@ -1,4 +1,4 @@
 # D4RNet
-A fast, accurate, and generalizable driver distraction detection framework and network based on knowledge distill and graident reserval layers.
+A fast, accurate, and generalizable driver distraction detection framework based on knowledge distill and graident reserval layers.
 
-## All the code, data and weights will be available after paper review.
+*20260912:* Accepted by Expert Systems With Applications. All the code, data and weights will be available soon.
