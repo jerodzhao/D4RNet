@@ -1,0 +1,6 @@
+# Install the matching PyTorch/torchvision wheels for your CUDA or CPU platform.
+torch==1.13.0
+torchvision==0.14.0
+timm==1.0.13
+numpy>=1.23,<2
+Pillow>=9,<12

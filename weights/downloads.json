@@ -1,0 +1,5 @@
+{
+  "student_mobilenet_v2": {"url": null, "directory": "weights/student/"},
+  "student_mobilenet_v3_large": {"url": null, "directory": "weights/student/"},
+  "teacher_swin_b": {"url": null, "directory": "weights/teacher/"}
+}

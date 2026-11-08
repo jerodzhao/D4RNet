@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use D4RNet, please cite the accompanying paper."
+type: software
+title: D4RNet
+version: 1.0.0
+url: "https://github.com/jerodzhao/D4RNet"
+license: MIT
+authors:
+  - family-names: Zhao
+    given-names: Xiong
+  - family-names: Yang
+    given-names: Zhuofan
+  - family-names: Sulaiman
+    given-names: Sarina
+  - family-names: Wong
+    given-names: Yee Leng
+  - family-names: Li
+    given-names: Xingyuan
+preferred-citation:
+  type: article
+  title: "D4RNet: A lightweight distracted driver detection network with knowledge distillation and gradient reversal layer"
+  authors:
+    - family-names: Zhao
+      given-names: Xiong
+    - family-names: Yang
+      given-names: Zhuofan
+    - family-names: Sulaiman
+      given-names: Sarina
+    - family-names: Wong
+      given-names: Yee Leng
+    - family-names: Li
+      given-names: Xingyuan
+  journal: Expert Systems with Applications
+  volume: 334
+  start: 134357
+  year: 2027
+  doi: "10.1016/j.eswa.2026.134357"

@@ -1,0 +1,4 @@
+-r requirements.txt
+onnx>=1.14,<1.21
+onnxruntime>=1.15,<2
+opencv-python>=4.7,<5

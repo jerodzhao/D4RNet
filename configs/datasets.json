@@ -1,0 +1,197 @@
+{
+  "D1": {
+    "image_subdir": "Day/Cam1",
+    "num_domains": 9,
+    "counts": {
+      "train": 45388,
+      "val": 4334,
+      "test": 11196
+    },
+    "train": "Traditional-setting/Day/Cam1/D1_train.txt",
+    "val": "Traditional-setting/Day/Cam1/D1_val.txt",
+    "test": "Traditional-setting/Day/Cam1/D1_test.txt",
+    "auxiliary_train": "Traditional-setting/Day/Cam1/D1_train_with_vehicle_scene.txt"
+  },
+  "D2": {
+    "image_subdir": "Day/Cam2",
+    "num_domains": 10,
+    "counts": {
+      "train": 42959,
+      "val": 3810,
+      "test": 10890
+    },
+    "train": "Traditional-setting/Day/Cam2/D2_train.txt",
+    "val": "Traditional-setting/Day/Cam2/D2_val.txt",
+    "test": "Traditional-setting/Day/Cam2/D2_test.txt",
+    "auxiliary_train": "Traditional-setting/Day/Cam2/D2_train_with_vehicle_scene.txt"
+  },
+  "D3": {
+    "image_subdir": "Day/Cam3",
+    "num_domains": 9,
+    "counts": {
+      "train": 46131,
+      "val": 3953,
+      "test": 11373
+    },
+    "train": "Traditional-setting/Day/Cam3/D3_train.txt",
+    "val": "Traditional-setting/Day/Cam3/D3_val.txt",
+    "test": "Traditional-setting/Day/Cam3/D3_test.txt",
+    "auxiliary_train": "Traditional-setting/Day/Cam3/D3_train_with_vehicle_scene.txt"
+  },
+  "D4": {
+    "image_subdir": "Day/Cam4",
+    "num_domains": 14,
+    "counts": {
+      "train": 48606,
+      "val": 4937,
+      "test": 11689
+    },
+    "train": "Traditional-setting/Day/Cam4/D4_train.txt",
+    "val": "Traditional-setting/Day/Cam4/D4_val.txt",
+    "test": "Traditional-setting/Day/Cam4/D4_test.txt",
+    "auxiliary_train": "Traditional-setting/Day/Cam4/D4_train_with_vehicle_scene.txt"
+  },
+  "D-all": {
+    "image_subdir": "Day",
+    "num_domains": 42,
+    "counts": {
+      "train": 183084,
+      "val": 17034,
+      "test": 45148
+    },
+    "train": "Traditional-setting/Day/D-all_train.txt",
+    "val": "Traditional-setting/Day/D-all_val.txt",
+    "test": "Traditional-setting/Day/D-all_test.txt",
+    "auxiliary_train": "Traditional-setting/Day/D-all_train_with_auto.txt"
+  },
+  "N1": {
+    "image_subdir": "Night/Cam1",
+    "num_domains": 6,
+    "counts": {
+      "train": 45239,
+      "val": 5563,
+      "test": 10351
+    },
+    "train": "Traditional-setting/Night/Cam1/N1_train.txt",
+    "val": "Traditional-setting/Night/Cam1/N1_val.txt",
+    "test": "Traditional-setting/Night/Cam1/N1_test.txt",
+    "auxiliary_train": "Traditional-setting/Night/Cam1/N1_train_with_vehicle_scene.txt"
+  },
+  "N2": {
+    "image_subdir": "Night/Cam2",
+    "num_domains": 5,
+    "counts": {
+      "train": 41897,
+      "val": 5561,
+      "test": 10598
+    },
+    "train": "Traditional-setting/Night/Cam2/N2_train.txt",
+    "val": "Traditional-setting/Night/Cam2/N2_val.txt",
+    "test": "Traditional-setting/Night/Cam2/N2_test.txt",
+    "auxiliary_train": "Traditional-setting/Night/Cam2/N2_train_with_vehicle_scene.txt"
+  },
+  "N3": {
+    "image_subdir": "Night/Cam3",
+    "num_domains": 6,
+    "counts": {
+      "train": 31902,
+      "val": 4200,
+      "test": 7484
+    },
+    "train": "Traditional-setting/Night/Cam3/N3_train.txt",
+    "val": "Traditional-setting/Night/Cam3/N3_val.txt",
+    "test": "Traditional-setting/Night/Cam3/N3_test.txt",
+    "auxiliary_train": "Traditional-setting/Night/Cam3/N3_train_with_vehicle_scene.txt"
+  },
+  "N4": {
+    "image_subdir": "Night/Cam4",
+    "num_domains": 6,
+    "counts": {
+      "train": 45305,
+      "val": 6146,
+      "test": 10696
+    },
+    "train": "Traditional-setting/Night/Cam4/N4_train.txt",
+    "val": "Traditional-setting/Night/Cam4/N4_val.txt",
+    "test": "Traditional-setting/Night/Cam4/N4_test.txt",
+    "auxiliary_train": "Traditional-setting/Night/Cam4/N4_train_with_vehicle_scene.txt"
+  },
+  "N-all": {
+    "image_subdir": "Night",
+    "num_domains": 23,
+    "counts": {
+      "train": 164343,
+      "val": 21470,
+      "test": 39129
+    },
+    "train": "Traditional-setting/Night/N-all_train.txt",
+    "val": "Traditional-setting/Night/N-all_val.txt",
+    "test": "Traditional-setting/Night/N-all_test.txt",
+    "auxiliary_train": "Traditional-setting/Night/N-all_train_with_auto.txt"
+  },
+  "DN1": {
+    "image_subdir": ".",
+    "num_domains": 15,
+    "counts": {
+      "train": 90627,
+      "val": 9897,
+      "test": 21547
+    },
+    "train": "Traditional-setting/DN1_train.txt",
+    "val": "Traditional-setting/DN1_val.txt",
+    "test": "Traditional-setting/DN1_test.txt",
+    "auxiliary_train": "Traditional-setting/DN1_train_with_auto.txt"
+  },
+  "DN2": {
+    "image_subdir": ".",
+    "num_domains": 15,
+    "counts": {
+      "train": 84856,
+      "val": 9371,
+      "test": 21488
+    },
+    "train": "Traditional-setting/DN2_train.txt",
+    "val": "Traditional-setting/DN2_val.txt",
+    "test": "Traditional-setting/DN2_test.txt",
+    "auxiliary_train": "Traditional-setting/DN2_train_with_auto.txt"
+  },
+  "DN3": {
+    "image_subdir": ".",
+    "num_domains": 15,
+    "counts": {
+      "train": 78033,
+      "val": 8153,
+      "test": 18857
+    },
+    "train": "Traditional-setting/DN3_train.txt",
+    "val": "Traditional-setting/DN3_val.txt",
+    "test": "Traditional-setting/DN3_test.txt",
+    "auxiliary_train": "Traditional-setting/DN3_train_with_auto.txt"
+  },
+  "DN4": {
+    "image_subdir": ".",
+    "num_domains": 20,
+    "counts": {
+      "train": 93911,
+      "val": 11083,
+      "test": 22385
+    },
+    "train": "Traditional-setting/DN4_train.txt",
+    "val": "Traditional-setting/DN4_val.txt",
+    "test": "Traditional-setting/DN4_test.txt",
+    "auxiliary_train": "Traditional-setting/DN4_train_with_auto.txt"
+  },
+  "DN-all": {
+    "image_subdir": ".",
+    "num_domains": 65,
+    "counts": {
+      "train": 347427,
+      "val": 38504,
+      "test": 84277
+    },
+    "train": "Traditional-setting/DN-all_train.txt",
+    "val": "Traditional-setting/DN-all_val.txt",
+    "test": "Traditional-setting/DN-all_test.txt",
+    "auxiliary_train": "Traditional-setting/DN-all_train_with_auto.txt"
+  }
+}
