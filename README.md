@@ -8,6 +8,10 @@ Xiong Zhao, Zhuofan Yang, Sarina Sulaiman, Wong Yee Leng, and Xingyuan Li.
 [Paper](https://doi.org/10.1016/j.eswa.2026.134357) ·
 [Code](https://github.com/jerodzhao/D4RNet) · [Model downloads](weights/README.md)
 
+*Note:* 
+因为源代码目录下有大量工程代码暂无时间一一整理，先上传Codex辅助整理版。
+Since there is a large amount of project code in the source code directory and I don't have time to organize it all right now, I'm uploading the Codex rearranged version for now.
+
 D4RNet trains a MobileNetV2 student using offline Swin-B logits and an auxiliary
 domain classifier connected through a gradient reversal layer (GRL). Features
 from layers 3, 6, and 13 supervise the domain branch; layer 18 supplies the
